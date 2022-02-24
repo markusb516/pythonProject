@@ -139,14 +139,14 @@ venv.bak/
 # mkdocs documentation
 /site
 
-/"blog.db"/
+\blog.db
 
 # mypy
 .mypy_cache/
 .dmypy.json
 dmypy.json
 
-# Pyre type checker
+# masterPyre type checker
 .pyre/
 
 # pytype static type analyzer
